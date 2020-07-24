@@ -1,4 +1,4 @@
-INSERT INTO `authors` VALUES (1,'Sam Altman','USA'),
+INSERT INTO `authors` VALUES (1,'Sam Altman','USA')
 (2,'Freddy Vega','COL'),
 (3,'Arthur Conan Doyle','GBR'),
 (4,'Chuck Palahniuk','USA'),
